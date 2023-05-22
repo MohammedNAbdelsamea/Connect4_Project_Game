@@ -20,8 +20,8 @@ YELLOW = (0, 0, 255)
 
 ROW_COUNT = 6
 COLUMN_COUNT = 7
-PLAYER = 0  # Added
-AI = 1
+PLAYER =1  # Added
+AI = 2
 
 minimax_scores_g = []
 minimax_ab_scores_g = []
